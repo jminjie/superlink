@@ -1,2 +1,3 @@
-# superlink
-A chrome extension which upgrades HTML hyperlinks to "superlinks."
+# Superlink
+A Chrome extension which upgrades HTML hyperlinks to "superlinks," which are
+hyperlink-styled text.
