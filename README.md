@@ -2,7 +2,8 @@
 A Chrome extension which upgrades HTML hyperlinks to "superlinks," which are
 hyperlink-styled text.
 
-## Manual installation instructions
+## Installation
+### Manual installation instructions
 1. Clone this repo.
 2. In Chrome, open the Extensions settings. (Wrench button, Tools, Extensions.)
 3. On the Extensions settings page, click the "Developer Mode" checkbox.
@@ -11,7 +12,7 @@ hyperlink-styled text.
 5. The *Superlink* extension should now be visible in your extensions list.
 6. Refresh your page to use Superlinks
 
-# Install through Chrome Web Store (coming soon)
+### Install through Chrome Web Store (coming soon)
 
 ## Demo
 ![Recorded demo](https://github.com/jminjie/superlink/blob/master/res/updated-demo.gif)
