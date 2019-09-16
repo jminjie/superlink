@@ -17,4 +17,4 @@ hyperlink-styled text which you can't click.
 6. Refresh your page to use Superlinks
 
 ### Install through Chrome Web Store
-Superlinks is available in the Chome Web Store [here](https://chrome.google.com/webstore/detail/superlinks/).
+Superlinks is available in the Chome Web Store [here](https://chrome.google.com/webstore/detail/superlinks/ildidgmdkfaldcfogkghghkbgjkbhflm).
