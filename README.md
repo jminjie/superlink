@@ -3,7 +3,7 @@ A Chrome extension which upgrades HTML hyperlinks to "superlinks," which are
 hyperlink-styled text which you can't click.
 
 ## Demo
-![Recorded demo](https://github.com/jminjie/superlink/blob/master/res/updated-demo.gif)
+![Recorded demo](https://github.com/jminjie/superlink/blob/master/res/demo.gif)
 
 ## Installation
 ### Manual installation instructions
