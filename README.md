@@ -1,4 +1,4 @@
-# Superlink
+# Superlinks
 A Chrome extension which upgrades HTML hyperlinks to "superlinks," which are
 hyperlink-styled text which you can't click.
 
@@ -16,4 +16,5 @@ hyperlink-styled text which you can't click.
 5. The *Superlink* extension should now be visible in your extensions list.
 6. Refresh your page to use Superlinks
 
-### Install through Chrome Web Store (coming soon)
+### Install through Chrome Web Store
+Superlinks is available in the Chome Web Store [here](https://chrome.google.com/webstore/detail/superlinks/).

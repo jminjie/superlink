@@ -1,5 +1,5 @@
 {
-	"manifest_version": 3,
+	"manifest_version": 2,
 	"name": "Superlinks",
 	"version": "1.0",
 	"description": "Replaces the hyperlinks with blue underlined text.",
@@ -10,7 +10,7 @@
 			"js": ["content_script.js"],
 			"run_at": "document_end"
 		}
-	]
+	],
     "browser_action": {
         "default_icon": "icon.png"
     }
